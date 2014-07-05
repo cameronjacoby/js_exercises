@@ -1,8 +1,9 @@
 js_exercises
 ============
 
+#### Practice with variable, if/else statements, for loops, and arrays
+
 # Variables
-__________
 
 ## The Age Calculator
 
